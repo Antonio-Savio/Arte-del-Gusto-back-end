@@ -35,4 +35,4 @@ app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
     return;
 })
 
-app.listen(process.env.PORT, () => console.log("Servidor online ns porta 3333"))
+app.listen(process.env.PORT || 3333, () => console.log("Servidor online ns porta 3333"))
