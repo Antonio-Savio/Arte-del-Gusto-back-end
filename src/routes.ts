@@ -23,7 +23,7 @@ import uploadConfig from './config/multer'
 
 const router = Router();
 
-const upload = multer(uploadConfig.upload("./tmp"))
+const upload = multer(uploadConfig.upload("/"))
 
 //--- rotas user ---
 router.post("/users", new CreateUserController().handle)
