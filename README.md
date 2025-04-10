@@ -18,6 +18,8 @@ O sistema facilita o gerenciamento eficiente de usuários, categorias de produto
 ---
 
 ## 💻 Visão geral
+https://github.com/user-attachments/assets/e4fba1e0-ff3a-41b4-90c3-bb70704df398
+
 <img src="./src/assets/arte-del-gusto.gif" alt="gif mostrando funcionalidades do Arte del Gusto">
 
 ---
